@@ -366,5 +366,7 @@ ORDER BY completed_delivers DESC;
 # Suggestions Going Forward?
 
 ## Closely monitor the future performance of runners 1 and 2
-## Ensure that they have their deliver orders quicker in the future
+## Make sure that runners 1 and 2 deliver their orders quicker in the future
+
+
 
